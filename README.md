@@ -19,12 +19,11 @@ My result should reflect the following:
 
 Financial Analysis
 ----------------------------
-Total Months: 86
-Total: $22564198
+Months total in Analysis:  86
+Total:  $22564198
 Average Change: $-8311.11
-Greatest Increase in Profits: Aug-16 ($1862002)
-Greatest Decrease in Profits: Feb-14 ($-1825558)
-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+Greatest Increase in Profits: 16-Aug ($1862002)
+Greatest Decrease in Profits: 14-Feb ($-1825558)
 
 PyPoll Instructions
 In this Challenge, my tasked are helping a small, rural town modernize its vote-counting process.
@@ -43,12 +42,12 @@ My task was to create a Python script that analyzes the votes and calculates eac
 My result should reflect the following:
 
 Election Results
--------------------------
+-----------------------------------
 Total Votes: 369711
--------------------------
-Charles Casper Stockham: 23.049% (85213)
-Diana DeGette: 73.812% (272892)
-Raymon Anthony Doane: 3.139% (11606)
--------------------------
-Winner: Diana DeGette
--------------------------
+-----------------------------------
+Charles_Casper_Stockham_percent: 23.049% (85213)
+Diana_DeGette: 73.812% (272892)
+Raymon_Anthony_Doane: 3.139% (11606)
+-----------------------------------
+Winner: Diana_DeGette
+-----------------------------------
